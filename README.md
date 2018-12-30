@@ -1,1 +1,3 @@
 # Learning Node.js and Express.js from Lynda Course.
+
+A repository to track my progress through the Node.js and Express.js course on Lynda.com by Daniel Khan. The course comes with both a tutorial and provided files. The reposiitory does NOT contain the node_modules folder, which contains the Express and Pug modules I downloaded into the project. The details of the installation are contained within the two npm files, package-lock.json and package.json. Users will need to install Express and Pug themselves in order to run the application.
